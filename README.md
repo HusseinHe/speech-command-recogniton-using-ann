@@ -19,7 +19,7 @@ i used google speech commands dataset(the link:https://www.kaggle.com/datasets/n
 The dataset consists of audio files stored in subdirectories, where each subdirectory corresponds to a specific class or label. Each audio file represents a speech or sound sample, and the goal is to classify 
 these 
 samples into their respective categories.
-###### The dataset is structured as follows:
+#### The dataset is structured as follows:
 Directory Structure:
 -Each label has its own folder within the dataset path.
 -The files within each folder represent the audio samples for that label.
